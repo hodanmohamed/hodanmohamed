@@ -1,5 +1,5 @@
 👋 Hi, I’m Hodan!
-- 👀 I’m interested in Front-End Development and Cloud Computing
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Python, Typescript, React, Redux and more.
 - 📫 How to reach me via <a href="https://www.linkedin.com/in/hodanmoh" target="_blank" rel="noreferrer">LinkedIn</a> 
 
