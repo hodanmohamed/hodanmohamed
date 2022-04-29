@@ -1,6 +1,6 @@
 👋 Hi, I’m Hodan!
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently building my portfolio and learning Typescript, React, Redux and more.
+- 🌱 I’m currently re-building my portfolio and learning VueJS more.
 - 📫 How to reach me via <a href="https://www.linkedin.com/in/hodanmoh" target="_blank" rel="noreferrer">LinkedIn</a> 
 
 <!---
