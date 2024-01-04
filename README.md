@@ -3,7 +3,7 @@ Hey there! I'm Hodan 👩🏽‍💻
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hodanmoh/)
 [![GitHub](https://img.shields.io/github/followers/hodanmohamed?label=follow&style=social)](https://github.com/hodanmohamed)
 
-A passionate and innovatively driven Front-End Developer / UX UI Designer with a strong desire to create <mark>exceptional</mark> web experiences. I'm dedicated to ensuring <mark>attention to detail</mark> while designing, developing, and testing various web applications.
+A passionate and innovatively driven Front-End Developer & UX/UI Designer with a strong desire to create <mark>exceptional</mark> web experiences. I'm dedicated to ensuring <mark>attention to detail</mark> while designing, developing, and testing various web applications.
 
 - 🌍 i'm based in London, UK
 - 🖥️ check out my portfolio at [coming soon...](http://github.com/hodanmohamed)
