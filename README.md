@@ -6,7 +6,7 @@ Hey there! I'm Hodan 👩🏽‍💻
 A passionate and innovatively driven Front-End Developer & UX/UI Designer with a strong desire to create <mark>exceptional</mark> web experiences. I'm dedicated to ensuring <mark>attention to detail</mark> while designing, developing, and testing various web applications.
 
 - 🌍 i'm based in London, UK
-- 🖥️ check out my portfolio at [coming soon...](http://www.github.com/hodanmohamed)
+- 🖥️ check out my portfolio [here](https://hodanmohamed.github.io/portfolioapp/)
 - 💌 any freelance work? do reach me, [via email](mailto:hodandev@gmail.com) :)
 - 💬 ask me about anything, i'm more than happy to help
 
