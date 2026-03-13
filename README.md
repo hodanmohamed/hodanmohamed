@@ -7,7 +7,7 @@ A passionate and innovatively driven Front-End Developer & UX/UI Designer with a
 
 - 🌍 i'm based in London, UK
 - 🖥️ check out my portfolio [here](https://hodanmohamed.github.io/portfolioapp/)
-- 💌 any freelance work? do reach me, [via email](mailto:hodandev@gmail.com) :)
+- 💌 any freelance work? do reach me, [via email](mailto:devbyhodan@gmail.com) :)
 - 💬 ask me about anything, i'm more than happy to help
 
 
